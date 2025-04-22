@@ -13,7 +13,7 @@ Used C Programming language and DevC++ editor to develope the application. The d
 8. College Event Management Section
    * Technical Event Management
    * Non-Technical Event Management
-9. Placament Cell Data Section</br>
+9. Placement Cell Data Section</br>
 
 Almost all attributes have common operations of Adding, Displaying, Modifying, Deleting, and Retrieving Data.
 #### `CollegeHome.c` is the main file. `student.h`, `staff.h`, `courses.h`, `hostel.h`, `placement.h`, `transport.h`, `event.h`, `grading.h`, `attendance.h` are the headerfiles that are included in the main file. These header files contains the logic that dirves you over different sections of College Management System. 
